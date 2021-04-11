@@ -8,4 +8,5 @@ class Cat
     end
 puts "meow!"
   end
+
 end
