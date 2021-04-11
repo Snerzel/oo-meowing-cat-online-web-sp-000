@@ -10,5 +10,5 @@ class Cat
   end
 end
  def cat.meow
-   meow
+  puts "meow"
  end
