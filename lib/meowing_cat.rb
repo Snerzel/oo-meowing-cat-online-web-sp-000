@@ -4,7 +4,7 @@ class Cat
   def initiallize(name)
     def name=(name)
       @name = name
-      puts "meow"
+
     end
 
   end
