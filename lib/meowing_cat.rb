@@ -6,6 +6,6 @@ class Cat
       @name = name
 
     end
-
+puts "meow!"
   end
 end
