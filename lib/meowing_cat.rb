@@ -9,6 +9,6 @@ class Cat
 
   end
 end
- def maru.meow
+ def cat.meow
    meow
  end
