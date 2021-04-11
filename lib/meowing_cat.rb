@@ -9,3 +9,6 @@ class Cat
 
   end
 end
+ def maru.meow
+   meow
+ end
